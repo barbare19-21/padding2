@@ -1,0 +1,20 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid #B4B4B4;
+    padding-left: 119px;
+    padding-top: 96px;
+}
+p{
+    color: #808080; 
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    text-align: left;
+
+}
+img{
+    width: 305px;
+    height: 226px; 
+}
